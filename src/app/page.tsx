@@ -250,9 +250,9 @@ export default function Home() {
               <p className="text-[#8987A1] mb-6">Une proposition de valeur unique, compétitive et premium</p>
               
               <div className="flex items-center justify-center gap-2 mb-4">
-                <h3 className="text-2xl font-bold">💰 À partir de 5 Million de FCFA</h3>
+                <h3 className="text-2xl font-bold">💰 À partir de 3 Million de FCFA</h3>
               </div>
-              <p className="text-[#8987A1] mb-8">Environ 3000 $ ou 3000 Euro</p>
+              <p className="text-[#8987A1] mb-8">Environ 5000 $ ou 5000 Euro</p>
 
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
