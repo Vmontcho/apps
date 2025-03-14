@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import CookieConsent from '../components/CookieConsent';
 
 export default function Home() {
@@ -39,7 +38,7 @@ export default function Home() {
             <div className="flex flex-col items-center gap-4 mb-8">
               <div className="flex items-center gap-2">
                 <span className="inline-block">🚀</span>
-                <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d'une application rapidement ?</p>
+                <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d&apos;une application rapidement ?</p>
               </div>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre App en 30 Jours</h2>
               <p className="text-2xl md:text-2xl lg:text-3xl font-medium font-[Clash Display]">(peut être même moins😎)</p>
@@ -231,7 +230,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
             <div className="bg-[#ffffff] p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)]">
               <h4 className="text-4xl md:text-6xl font-bold text-[#621B93] mb-4">50%</h4>
-              <p className="text-[#8987A1]">À l'avance</p>
+              <p className="text-[#8987A1]">À l&apos;avance</p>
             </div>
             
             <div className="bg-[#ffffff] p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)]">
@@ -314,7 +313,7 @@ export default function Home() {
               </div>
               <p className="text-white/80 mb-8">Environ 8000 $ ou 8000 Euro</p>
 
-              <p className="font-bold mb-4">TOUT L'OPTION PRO AVEC EN PLUS :</p>
+              <p className="font-bold mb-4">TOUT L&apos;OPTION PRO AVEC EN PLUS :</p>
 
               <div className="space-y-4">
                 <div className="flex items-start gap-2">
@@ -418,7 +417,7 @@ export default function Home() {
                 <Image src="/pitch-icon.png" alt="Pitch Deck" width={56} height={56} />
               </div>
               <h4 className="text-xl font-bold mb-2 text-center">Pitch Deck</h4>
-              <p className="text-[#8987A1] text-center">Présentations professionnelles, pitch de projets ou d'affaires.</p>
+              <p className="text-[#8987A1] text-center">Présentations professionnelles, pitch de projets ou d&apos;affaires.</p>
             </div>
 
             {/* Consulting et Design Card */}
@@ -446,7 +445,7 @@ export default function Home() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-green-500">✓</span>
-                  <span className="text-left">Ajout d'autres écrans (sur devis)</span>
+                  <span className="text-left">Ajout d&apos;autres écrans (sur devis)</span>
                 </li>
               </ul>
             </div>
@@ -489,7 +488,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center font-[Clash Display]">Contactez nous gratuitement</h2>
           <div className="max-w-3xl mx-auto">
-            <p className="text-[#8987A1] mb-8 text-center">Notre objectif est de vous aider à concrétiser vos idées et offrir des solutions exceptionnelles à vos clients. Avec une passion pour l'innovation et l'excellence, nous nous engageons à fournir des solutions de premier ordre le plus rapidement et efficacement possible. Remplissez le formulaire pour démarrer.</p>
+            <p className="text-[#8987A1] mb-8 text-center">Notre objectif est de vous aider à concrétiser vos idées et offrir des solutions exceptionnelles à vos clients. Avec une passion pour l&apos;innovation et l&apos;excellence, nous nous engageons à fournir des solutions de premier ordre le plus rapidement et efficacement possible. Remplissez le formulaire pour démarrer.</p>
             
             <div className="flex justify-center">
               <a 
@@ -550,7 +549,7 @@ export default function Home() {
             </div>
             <div className="bg-white p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] flex items-center gap-4">
               <span className="text-green-500 text-xl">✓</span>
-              <p className="text-left">Gestion de projet de développement d'applications</p>
+              <p className="text-left">Gestion de projet de développement d&apos;applications</p>
             </div>
           </div>
 
@@ -596,15 +595,15 @@ export default function Home() {
                 Que se passe t'il si je ne peux pas solder ?
                 <span className="text-[#621B93] group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-4 text-[#8987A1]">Nous pouvons proposer des options de paiement flexibles et pouvons discuter d'un plan de paiement adapté à votre situation. Le cas échéant, l'accès à l'application pourrait être limité. Contacter nous pour en discuter.</p>
+              <p className="mt-4 text-[#8987A1]">Nous pouvons proposer des options de paiement flexibles et pouvons discuter d&apos;un plan de paiement adapté à votre situation. Le cas échéant, l&apos;accès à l&apos;application pourrait être limité. Contacter nous pour en discuter.</p>
             </details>
 
             <details className="bg-white p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] cursor-pointer group">
               <summary className="font-bold text-lg flex justify-between items-center">
-                Que se passe t'il si je ne suis pas satisfait ?
+                Que se passe t&apos;il si je ne suis pas satisfait ?
                 <span className="text-[#621B93] group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-4 text-[#8987A1]">Nous nous assurons dès le départ d'être aligné avec vous sur le cahier de charges, le design et les aspects techniques et opérationnels de votre projet. Nous travaillons en étroite collaboration avec vous tout au long du projet, en toute transparence et accord pour garantir votre satisfaction.</p>
+              <p className="mt-4 text-[#8987A1]">Nous nous assurons dès le départ d&apos;être aligné avec vous sur le cahier de charges, le design et les aspects techniques et opérationnels de votre projet. Nous travaillons en étroite collaboration avec vous tout au long du projet, en toute transparence et accord pour garantir votre satisfaction.</p>
             </details>
 
             <details className="bg-white p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] cursor-pointer group">
@@ -620,7 +619,7 @@ export default function Home() {
                 Combien de fonctionnalités puis-je ajouter ?
                 <span className="text-[#621B93] group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-4 text-[#8987A1]">Autant que vous le souhaitez. Toutefois cela dépend de la complexité, le budget, le délai, la pertinence pour les utilisateurs, la stabilité de la solution, et d'autres aspects à prendre en compte. Nous pouvons vous conseiller sur les priorités et établir un plan d'évolution.</p>
+              <p className="mt-4 text-[#8987A1]">Autant que vous le souhaitez. Toutefois cela dépend de la complexité, le budget, le délai, la pertinence pour les utilisateurs, la stabilité de la solution, et d&apos;autres aspects à prendre en compte. Nous pouvons vous conseiller sur les priorités et établir un plan d&apos;évolution.</p>
             </details>
 
             <details className="bg-white p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] cursor-pointer group">
@@ -628,7 +627,7 @@ export default function Home() {
                 Puis-je payer cash, ou en tranches ?
                 <span className="text-[#621B93] group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-4 text-[#8987A1]">Oui, nous acceptons différentes modalités et moyens de paiement. Toutefois les échéanciers s'appliquent selon vos besoins à partir d'un certain montant. En deça, nous n'acceptons que 50% à l'avance, 30% à la livraison et 20% après la durée standard de maintenance post déploiement.</p>
+              <p className="mt-4 text-[#8987A1]">Oui, nous acceptons différentes modalités et moyens de paiement. Toutefois les échéanciers s&apos;appliquent selon vos besoins à partir d&apos;un certain montant. En deça, nous n&apos;acceptons que 50% à l&apos;avance, 30% à la livraison et 20% après la durée standard de maintenance post déploiement.</p>
             </details>
           </div>
         </div>
@@ -647,10 +646,10 @@ export default function Home() {
                 className="mb-4"
               />
               <p className="text-sm mb-4">Agence de Design, développement<br />de solutions informatiques.</p>
-              <p className="text-sm mb-4">Angré 7ème Tranche, rue L155,<br />en Face Pharmacie 7Lys, Kheris Workspace</p>
+              <p className="text-sm mb-4">Angré 7ème Tranche, rue L155,<br />en Face de la Pharmacie 7Lys, Kheris Workspace</p>
               <p className="text-sm flex items-center gap-2">
                 <span>❤️</span>
-                Fait avec amour par l'Esprit par APPS By The Spirit
+                Fait avec amour par l&apos;Esprit par APPS By The Spirit
               </p>
             </div>
             <div className="space-y-4">

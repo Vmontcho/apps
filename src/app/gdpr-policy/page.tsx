@@ -19,7 +19,7 @@ export default function GDPRPolicy() {
           <section>
             <h2 className="text-2xl font-bold mb-4 text-[#621B93]">1. Introduction</h2>
             <p className="text-[#8987A1]">
-              APPS By Spirit s'engage à protéger la vie privée des utilisateurs de notre site web et de nos services. 
+              APPS By Spirit s&apos;engage à protéger la vie privée des utilisateurs de notre site web et de nos services. 
               Cette politique explique comment nous collectons, utilisons et protégeons vos données personnelles.
             </p>
           </section>
@@ -52,9 +52,9 @@ export default function GDPRPolicy() {
             <h2 className="text-2xl font-bold mb-4 text-[#621B93]">4. Vos droits</h2>
             <p className="text-[#8987A1] mb-4">Conformément au RGPD, vous disposez des droits suivants :</p>
             <ul className="list-disc pl-6 text-[#8987A1] space-y-2">
-              <li>Droit d'accès à vos données</li>
+              <li>Droit d&apos;accès à vos données</li>
               <li>Droit de rectification</li>
-              <li>Droit à l'effacement</li>
+              <li>Droit à l&apos;effacement</li>
               <li>Droit à la limitation du traitement</li>
               <li>Droit à la portabilité des données</li>
               <li>Droit d'opposition</li>
@@ -65,7 +65,7 @@ export default function GDPRPolicy() {
             <h2 className="text-2xl font-bold mb-4 text-[#621B93]">5. Contact</h2>
             <p className="text-[#8987A1]">
               Pour toute question concernant notre politique de protection des données ou pour exercer vos droits, 
-              vous pouvez nous contacter à l'adresse suivante :<br /><br />
+              vous pouvez nous contacter à l&apos;adresse suivante :<br /><br />
               APPS By Spirit<br />
               Angré 7ème Tranche, rue L155<br />
               en Face Pharmacie 7Lys, Kheris Workspace<br />
