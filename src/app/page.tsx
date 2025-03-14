@@ -273,7 +273,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
-                  <p>2 semaines de maintenance post-déploiement gratuite</p>
+                  <p>2 semaines de maintenance gratuite</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
