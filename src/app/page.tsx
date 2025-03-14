@@ -55,7 +55,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto rounded-2xl overflow-hidden shadow-lg">
             <div className="aspect-video relative">
               <iframe
-                src="https://www.youtube.com/embed/Kw-zsyyI13M?si=I60nA6IprCmvHq00"
+                src="https://www.youtube.com/embed/qZ15w0c50ps?si=7qmwKZhO2riXswsd"
                 title="APPS By Spirit Presentation"
                 className="absolute top-0 left-0 w-full h-full"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
