@@ -94,7 +94,7 @@ export default function Home() {
                 <Image src="/web-icon.png" alt="Web" width={56} height={56} />
               </div>
               <h3 className="text-2xl font-bold mb-4">Application<br />Web responsive</h3>
-              <p className="text-[#8987A1] mb-6">Site web responsive et moderne</p>
+              <p className="text-[#8987A1] mb-6">Application web + tableau de bord</p>
               <div className="flex gap-4 justify-center">
                 <Image src="/react.png" alt="React" width={24} height={24} />
                 <Image src="/next-js.png" alt="Next.js" width={24} height={24} />
@@ -319,7 +319,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
-                  <p>2 semaines de maintenance gratuite en plus</p>
+                  <p>15 jours de maintenance en plus</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
@@ -364,10 +364,10 @@ export default function Home() {
             <div className="flex-grow text-center md:text-left">
               <h3 className="text-3xl md:text-4xl font-bold font-[Clash Display] text-black mb-4 md:mb-6">En option :</h3>
               <div className="text-base md:text-lg font-medium text-[#8987A1] space-y-3">
-                <p>✅  Maintenance post déploiement additionnelle (+20%)</p>
+                <p>✅  Maintenance post déploiement additionnelle </p>
                 <p>✅  Nouvelles fonctionnalités (sur devis)</p>
-                <p>✅  Design UX/UI premium (+30%)</p>
-                <p>✅  Équipe dédiée (6j/7) sur demande (+50%)</p>
+                <p>✅  Design UX/UI complet option premium </p>
+                <p>✅  Équipe personnalisée dédiée sur demande</p>
                 <p>✅  Systèmes multi-apps web/mobile (sur devis)</p>
               </div>
             </div>
