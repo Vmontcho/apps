@@ -361,8 +361,8 @@ export default function Home() {
           {/* Optional Features Section */}
           <div className="max-w-6xl mx-auto px-4 md:px-8 py-6 md:py-10 mt-6 bg-white rounded-2xl border border-gray-200 shadow-sm flex flex-col md:flex-row items-center gap-6 md:gap-8">
             <div className="relative w-[200px] h-[200px] md:w-[300px] md:h-[300px] flex-shrink-0">
-              <img className="absolute w-[175px] h-[175px] md:w-[265px] md:h-[265px] origin-top-left rotate-[-7.52deg] z-10" src="/Apps Client woman_By The Spirit sticker.png" />
-              <img className="absolute w-40 h-40 md:w-56 md:h-56 origin-top-left rotate-[10.39deg] z-20" src="/Apps Client_By The Spirit sticker.png" />
+              <img className="absolute w-[175px] h-[175px] md:w-[265px] md:h-[265px] origin-top-left rotate-[-7.52deg] z-10" src="/Apps Client woman_By The Spirit sticker.webp" />
+              <img className="absolute w-40 h-40 md:w-56 md:h-56 origin-top-left rotate-[10.39deg] z-20" src="/Apps Client_By The Spirit sticker.webp" />
             </div>
             <div className="flex-grow text-center md:text-left">
               <h3 className="text-3xl md:text-4xl font-bold font-[Clash Display] text-black mb-4 md:mb-6">En option :</h3>
@@ -529,7 +529,7 @@ export default function Home() {
       <section className="py-16 bg-[#F1F3F7]">
         <div className="container mx-auto px-4 text-center">
           <div className="mb-6 flex items-center justify-center">
-            <Image src="/Apps By The Spirit sticker.png" alt="Mobile" width={200} height={200} />
+            <Image src="/Apps By The Spirit sticker.webp" alt="Mobile" width={200} height={200} />
           </div>
           <h2 className="text-3xl md:text-4xl font-bold mb-4 font-[Clash Display]">Nous formons également des</h2>
           <h3 className="text-3xl md:text-4xl font-bold mb-12 text-[#621B93] font-[Clash Display]">DESIGNERS et DÉVELOPPEURS LOW/NO CODE</h3>
@@ -592,7 +592,7 @@ export default function Home() {
 
             <details className="bg-white p-6 rounded-xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] cursor-pointer group">
               <summary className="font-bold text-lg flex justify-between items-center">
-                Que se passe t'il si je ne peux pas solder ?
+                Que se passe t&apos;il si je ne peux pas solder ?
                 <span className="text-[#621B93] group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-4 text-[#8987A1]">Nous pouvons proposer des options de paiement flexibles et pouvons discuter d&apos;un plan de paiement adapté à votre situation. Le cas échéant, l&apos;accès à l&apos;application pourrait être limité. Contacter nous pour en discuter.</p>

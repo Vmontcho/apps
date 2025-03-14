@@ -31,7 +31,7 @@ export default function GDPRPolicy() {
               <li>Nom et prénom</li>
               <li>Adresse email</li>
               <li>Numéro de téléphone</li>
-              <li>Type d'organisation (particulier ou entreprise)</li>
+              <li>Type d&apos;organisation (particulier ou entreprise)</li>
               <li>Informations relatives au projet</li>
             </ul>
           </section>
@@ -57,7 +57,7 @@ export default function GDPRPolicy() {
               <li>Droit à l&apos;effacement</li>
               <li>Droit à la limitation du traitement</li>
               <li>Droit à la portabilité des données</li>
-              <li>Droit d'opposition</li>
+              <li>Droit d&apos;opposition</li>
             </ul>
           </section>
 
@@ -65,11 +65,11 @@ export default function GDPRPolicy() {
             <h2 className="text-2xl font-bold mb-4 text-[#621B93]">5. Contact</h2>
             <p className="text-[#8987A1]">
               Pour toute question concernant notre politique de protection des données ou pour exercer vos droits, 
-              vous pouvez nous contacter à l&apos;adresse suivante :<br /><br />
+              vous pouvez nous trouver à :<br /><br />
               APPS By Spirit<br />
               Angré 7ème Tranche, rue L155<br />
               en Face Pharmacie 7Lys, Kheris Workspace<br />
-              Abidjan, Côte d'Ivoire
+              Abidjan, CI
             </p>
           </section>
         </div>
