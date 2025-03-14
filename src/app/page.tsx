@@ -37,8 +37,7 @@ export default function Home() {
             />
             <div className="flex flex-col items-center gap-4 mb-8">
               <div className="flex items-center gap-2">
-                <span className="inline-block">🚀</span>
-                <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d&apos;une application rapidement ?</p>
+                <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d&apos;une application rapidement 🚀?</p>
               </div>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre App en 30 Jours</h2>
               <p className="text-2xl md:text-2xl lg:text-3xl font-medium font-[Clash Display]">(peut être même moins😎)</p>
@@ -251,8 +250,7 @@ export default function Home() {
               <p className="text-[#8987A1] mb-6">Une proposition de valeur unique, compétitive et premium</p>
               
               <div className="flex items-center justify-center gap-2 mb-4">
-                <span className="text-2xl">💰</span>
-                <h3 className="text-2xl font-bold">À partir de 5 Million de FCFA</h3>
+                <h3 className="text-2xl font-bold">💰 À partir de 5 Million de FCFA</h3>
               </div>
               <p className="text-[#8987A1] mb-8">Environ 3000 $ ou 3000 Euro</p>
 
@@ -308,8 +306,7 @@ export default function Home() {
               <p className="text-white/80 mb-6">IA et Experts dédiés pour un résultat rapide sans nul pareil</p>
               
               <div className="flex items-center justify-center gap-2 mb-4">
-                <span className="text-2xl">💰</span>
-                <h3 className="text-2xl font-bold">À partir de 5 Million de FCFA</h3>
+                <h3 className="text-2xl font-bold">💰 À partir de 5 Million de FCFA</h3>
               </div>
               <p className="text-white/80 mb-8">Environ 8000 $ ou 8000 Euro</p>
 
