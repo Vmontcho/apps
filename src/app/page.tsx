@@ -39,7 +39,7 @@ export default function Home() {
               <div className="flex items-center gap-2">
                 <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d&apos;une application rapidement 🚀?</p>
               </div>
-              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre App en 30 Jours</h2>
+              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre Application en 30 Jours</h2>
               <p className="text-2xl md:text-2xl lg:text-3xl font-medium font-[Clash Display]">(peut être même moins😎)</p>
             </div>
             <a href="#contact" className="bg-[#621B93] text-white px-8 py-3 rounded-full text-lg font-[Clash Display] transition-transform hover:scale-105 hover:shadow-lg inline-block">
@@ -246,19 +246,15 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
             {/* 30 Jours PRO Card */}
             <div className="bg-white p-8 rounded-2xl shadow-[0_4px_20px_rgba(0,0,0,0.05)]">
-              <h2 className="text-3xl font-bold mb-4 font-[Clash Display]">30 Jours PRO</h2>
-              <p className="text-[#8987A1] mb-6">Une proposition de valeur unique, compétitive et premium</p>
+              <h2 className="text-3xl font-bold mb-4 font-[Clash Display]">Pack MVP</h2>
+              <p className="text-[#8987A1] mb-6">L&apos;essentiel pour créer et lancer votre solution</p>
               
               <div className="flex items-center justify-center gap-2 mb-4">
-                <h3 className="text-2xl font-bold">💰 À partir de 3 Million de FCFA</h3>
+                <h3 className="text-2xl font-bold">💰 À partir de 1,2 Million de FCFA</h3>
               </div>
-              <p className="text-[#8987A1] mb-8">Environ 5000 $ ou 5000 Euro</p>
+              <p className="text-[#8987A1] mb-8">Environ 2000 $ ou 2000 Euro</p>
 
               <div className="space-y-4">
-                <div className="flex items-center gap-3">
-                  <span className="text-green-500 text-xl">✓</span>
-                  <p>Hébergement, serveur & domaine gratuits</p>
-                </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
                   <p>Design UX/UI professionnel</p>
@@ -273,15 +269,15 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
-                  <p>2 semaines de maintenance gratuite</p>
+                  <p>15 jours de maintenance gratuite</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
-                  <p>Code fournis au solde</p>
+                  <p>Code source fournis au solde</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
-                  <p>Tableau de bord Notion</p>
+                  <p>Tableau de bord personnel</p>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-500 text-xl">✓</span>
@@ -302,20 +298,26 @@ export default function Home() {
 
             {/* 10-20 jours PRO MAX Card */}
             <div className="bg-[#621B93] p-8 rounded-2xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] text-white">
-              <h2 className="text-3xl font-bold mb-4 font-[Clash Display]">10-20 jours PRO MAX</h2>
-              <p className="text-white/80 mb-6">IA et Experts dédiés pour un résultat rapide sans nul pareil</p>
+              <h2 className="text-3xl font-bold mb-4 font-[Clash Display]">Pack DREAM</h2>
+              <p className="text-white/80 mb-6">IA et Experts dédiés : une offre tout-en-un</p>
               
               <div className="flex items-center justify-center gap-2 mb-4">
-                <h3 className="text-2xl font-bold">💰 À partir de 5 Million de FCFA</h3>
+                <h3 className="text-2xl font-bold">💰 À partir de 3 Million de FCFA</h3>
               </div>
-              <p className="text-white/80 mb-8">Environ 8000 $ ou 8000 Euro</p>
-
-              <p className="font-bold mb-4">TOUT L&apos;OPTION PRO AVEC EN PLUS :</p>
+              <p className="text-white/80 mb-8">Environ 5000 $ ou 5000 Euro</p>
 
               <div className="space-y-4">
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
                   <p>Design UX/UI option premium</p>
+                </div>
+                <div className="flex items-start gap-2">
+                  <span className="text-left">✓</span>
+                  <p>Hébergement et domaine inclus (1an)</p>
+                </div>
+                <div className="flex items-start gap-2">
+                  <span className="text-left">✓</span>
+                  <p>Multiple Applications (1-3 apps)</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
@@ -331,19 +333,15 @@ export default function Home() {
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
-                  <p>Tableau de bord personnalisé</p>
-                </div>
-                <div className="flex items-start gap-2">
-                  <span className="text-left">✓</span>
                   <p>Support prioritaire 6j/7</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
-                  <p>Tous les services complémentaires</p>
+                  <p>Services complémentaires inclus (optionnel)</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left"></span>
-                  <p>(Tarif Impressions et Boost réseaux sociaux non inclus)</p>
+                  <p>(Impressions et pubs sur devis)</p>
                 </div>
               </div>
 
@@ -355,25 +353,6 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Optional Features Section */}
-          <div className="max-w-6xl mx-auto px-4 md:px-8 py-6 md:py-10 mt-6 bg-white rounded-2xl border border-gray-200 shadow-sm flex flex-col md:flex-row items-center gap-6 md:gap-8">
-            <div className="relative w-[200px] h-[200px] md:w-[300px] md:h-[300px] flex-shrink-0">
-              <img className="absolute w-[175px] h-[175px] md:w-[265px] md:h-[265px] origin-top-left rotate-[-7.52deg] z-10" src="/Apps Client woman_By The Spirit sticker.webp" />
-              <img className="absolute w-40 h-40 md:w-56 md:h-56 origin-top-left rotate-[10.39deg] z-20" src="/Apps Client_By The Spirit sticker.webp" />
-            </div>
-            <div className="flex-grow text-center md:text-left">
-              <h3 className="text-3xl md:text-4xl font-bold font-[Clash Display] text-black mb-4 md:mb-6">En option :</h3>
-              <div className="text-base md:text-lg font-medium text-[#8987A1] space-y-3">
-                <p>✅  Maintenance post déploiement additionnelle </p>
-                <p>✅  Nouvelles fonctionnalités (sur devis)</p>
-                <p>✅  Design UX/UI complet option premium </p>
-                <p>✅  Équipe personnalisée dédiée sur demande</p>
-                <p>✅  Systèmes multi-apps web/mobile (sur devis)</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Design Services Section */}
       <section id="bonus" className="py-16 bg-[#F1F3F7]">
