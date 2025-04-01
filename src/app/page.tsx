@@ -1,5 +1,9 @@
 import Image from "next/image";
 import CookieConsent from '../components/CookieConsent';
+"use client"; // If using React components inside Next.js 13+ App Router
+
+import React from "react";
+
 
 export default function Home() {
   return (
