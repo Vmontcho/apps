@@ -354,7 +354,8 @@ export default function Home() {
               </div>
             </div>
           </div>
-
+        </div>
+      </section>
 
       {/* Design Services Section */}
       <section id="bonus" className="py-16 bg-[#F1F3F7]">
