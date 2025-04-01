@@ -1,3 +1,4 @@
+"use client";  // Add this at the very top
 import Image from "next/image";
 import CookieConsent from '../components/CookieConsent';
 import React from "react";
