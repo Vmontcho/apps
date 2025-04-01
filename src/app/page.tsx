@@ -41,7 +41,7 @@ export default function Home() {
               <div className="flex items-center gap-2">
                 <p className="text-2xl md:text-2xl lg:text-2xl text-[#621B93] font-semibold">Besoin d&apos;une application rapidement 🚀?</p>
               </div>
-              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre Appli en 30 Jours</h2>
+              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black font-[Clash Display]">Nous créons votre Application en 30 Jours</h2>
               <p className="text-2xl md:text-2xl lg:text-3xl font-medium font-[Clash Display]">(peut être même moins😎)</p>
             </div>
             <a href="#contact" className="bg-[#621B93] text-white px-8 py-3 rounded-full text-lg font-[Clash Display] transition-transform hover:scale-105 hover:shadow-lg inline-block">
