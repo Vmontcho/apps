@@ -471,7 +471,7 @@ export default function Home() {
             
             <div className="flex justify-center">
               <a 
-                href="https://apps.fillout.com/t/w5JSP5SoE8us" 
+                href="https://docs.google.com/forms/d/e/1FAIpQLScvShfvlfEuRkUzzWsmWJ_ZuCXJdksdv4HSz8FDRCthbH8TiA/viewform?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-[#621B93] text-white px-6 py-3 rounded-full font-[Clash Display] transition-transform hover:scale-105 hover:shadow-lg flex items-center justify-center gap-2"
