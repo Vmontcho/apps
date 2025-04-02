@@ -339,7 +339,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left">✓</span>
-                  <p>Services complémentaires inclus (optionnel)</p>
+                  <p>Services complémentaires inclus</p>
                 </div>
                 <div className="flex items-start gap-2">
                   <span className="text-left"></span>
